@@ -31,13 +31,24 @@ Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierun
     • Erfahrung in verteilten Entwicklungsteams, Zusammenarbeit weltweit
     • Aufgabenverteilung und -verfolgung über GitHub, inklusive Code-Reviews und Issue-Erstellung
 
+
 #### Dezentrale Technologien:
 Kenntnisse in dezentralen Techniken und Protokollen: 
 
+    • Webtorrent
     • IPFS (Interplanetares File System)
     • DAT & Hyperprotokoll
     • Nostr Protokoll
- 
+
+
+#### Blockchain und Kryptowährungen:
+Meine Reise in die Welt der Blockchain-Entwicklung begann mit einem Preis von 8 Dollar für Bitcoin. Seitdem habe ich diesen Markt intensiv und ausführlich durchforstet und sämtliche technischen Entwicklungen über die Zeit hinweg sowohl oberflächlich als auch in der Tiefe verfolgt. Dabei interessiere ich mich insbesondere für die verschiedenen technischen Herangehensweisen hinter den Entwicklungen und die treibenden Gründe für diese Fortschritte. Mein Fokus liegt dabei auf dem Entwicklermarkt sowie dem Ökosystem eines spezifischen Zweigs dieser Technologie.
+
+Ich bin mit den gängigen Blockchain- und Tangle-Techniken vertraut und verstehe sie aus technischer Sicht. Meine Erfahrungen erstrecken sich über BIP-Standards, das Erstellen von Smart Contracts auf der Ethereum-Ebene sowie das Verständnis von Systemen wie Polkadot und IOTA. Ich bin mit Begriffen wie Metamask vertraut und besitze sowohl technisches als auch praktisches Wissen im Erstellen und Platzieren von NFTs (Non-Fungible Tokens).
+
+Aktuell liegt mein Fokus auf dem Nostr Protokoll, da ich an der technologischen Weiterentwicklung und den Potenzialen dieses Protokolls intensiv arbeite. Die ständige Beobachtung und Auseinandersetzung mit diesen Technologien treibt mich an, innovative Lösungen zu entwickeln und einen tiefen Einblick in die Welt der Blockchain-Entwicklung zu gewinnen.
+
+
 #### Künstliche Intelligenz:
     • Arbeit mit KI-Technologien zur Code-Vervollständigung und -Überprüfung
     • Beschäftigung mit OS Stable Diffusion im grafischen Bereich
