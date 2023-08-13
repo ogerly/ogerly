@@ -45,9 +45,11 @@ Kenntnisse in dezentralen Techniken und Protokollen:
 
 #### CMS und Open Source Projekte:
     • Verständnis gängiger CMS-Systeme
-    • Aktive Mitarbeit an Open-Source-Projekten:
+
+#### Aktive Mitarbeit an Open-Source-Projekten:
     • Ocelot: Soziales Netzwerk
-    • Gradido: Alternatives Bezahlsystem, inklusive Marktplatz
+    • Gradido: Alternatives Bezahlsystem
+    • Marktplatz mit Kartenfunktion
     • Nostr Client: Dezentrales Relay-System
 
 
