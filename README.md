@@ -60,17 +60,15 @@ Ich bevorzuge ein festes Arbeitsverhältnis, das die Möglichkeit bietet, meine 
 _Angestellt:_
 
     • Präferenz für eine 20-Stunden-Woche im Homeoffice
+***Ein Teil der Vergütung kann in Bitcoin erfolgen***
+
 
 _Auftragsarbeit:_
 
     • Projektbezogen oder Stundensatz von ~ 75 € in Bitcoin
     • Die Auftragsarbeit beinhaltet die Vorlage eines sauberen Konzepts und Arbeitsplans.
     • Bei Aufträgen ohne vorherige Konzeption (zusätzlicher Bestandteil des Auftrags) erhöhen sich die Preise um 100%.
-
-_Vergütungsoptionen:_
-
-    • Ein Teil der Vergütung kann in Bitcoin erfolgen
-    • Bezahlungen für Auftragsarbeit kann nur in Bitcoin erfolgen!
+***Bezahlungen für Auftragsarbeit kann nur in Bitcoin erfolgen!***
 
     
 
