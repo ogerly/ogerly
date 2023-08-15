@@ -15,16 +15,18 @@ Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierun
     • Build-Tool: Vite
     • CSS-Frameworks: Bootstrap, Vuetify
     • GraphQL-Client: Apollo Client
+    u.a.
 
 #### Tests:
     • Durchführung von JavaScript/TypeScript Jest Tests (Spec)
 
 #### Backend-Entwicklung:
     • Programmiersprache: Node.js
-    • Datenbanken: MySQL, Neo4J u.a.
+    • Datenbanken: MySQL, Neo4J, CouchDB
     • API-Entwicklung: Erstellung von APIs als Schnittstelle zum Backend
     • GraphQL für effiziente Datenabfragen
     • Erfahrung mit PHP
+    u.a.
 
 #### Versionierung und Collaboration:
     • Nutzung von GitHub als Hauptarbeitsplattform
