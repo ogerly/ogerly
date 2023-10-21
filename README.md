@@ -10,8 +10,8 @@ Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierun
 
 #### Frontend-Entwicklung:
     • Programmiersprachen: JavaScript, TypeScript
-    • Markup-Sprache: HTML, Markup
-    • Frontend-Frameworks: Vue.js (2, 3)
+    • Frontend-Frameworks: Vue, Nuxt, Vitepress
+    • Building UI components: Storybook, Zeplin, Styleguide
     • Build-Tool: Vite
     • CSS-Frameworks: Bootstrap, Vuetify
     • GraphQL-Client: Apollo Client
