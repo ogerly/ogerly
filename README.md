@@ -1,6 +1,5 @@
 ## Alexander Friedland (ogerly)
 
-![1324583](https://github.com/ogerly/ogerly/assets/1324583/fc452872-887f-425d-8b6e-6a5170ddeba3)
 
 Ich bin ein Web- und Softwareentwickler (Fullstack) mit mehr als zwei Jahrzehnten Erfahrung in der Branche. 
 Mein Fokus liegt auf der Entwicklung von Frontend-Desktop- und Webanwendungen. 
