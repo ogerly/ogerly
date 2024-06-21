@@ -2,8 +2,9 @@
 
 ![1324583](https://github.com/ogerly/ogerly/assets/1324583/fc452872-887f-425d-8b6e-6a5170ddeba3)
 
-Ich bin ein erfahrener Web- und Softwareentwickler (Fullstack) mit mehr als zwei Jahrzehnten Erfahrung in der Branche. Mein Fokus liegt auf der Entwicklung von Frontend-Desktop- und Webanwendungen. 
-Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierung, während das Design in den Händen von Webdesignern liegt.
+Ich bin ein Web- und Softwareentwickler (Fullstack) mit mehr als zwei Jahrzehnten Erfahrung in der Branche. 
+Mein Fokus liegt auf der Entwicklung von Frontend-Desktop- und Webanwendungen. 
+Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierung.
 
 
 ## Erfahrungsbereiche:
@@ -21,11 +22,11 @@ Als Entwickler konzentriere ich mich auf die technische Umsetzung und Optimierun
     • Durchführung von JavaScript/TypeScript Jest Tests (Spec)
 
 #### Backend-Entwicklung:
-    • Programmiersprache: Node.js
+    • Programmiersprache: Node.js, PHP, Phyton
     • Datenbanken: MySQL, Neo4J, CouchDB
     • API-Entwicklung: Erstellung von APIs als Schnittstelle zum Backend
     • GraphQL für effiziente Datenabfragen
-    • Erfahrung mit PHP
+    • Langjährige Erfahrung mit PHP
     u.a.
 
 #### Versionierung und Collaboration:
@@ -55,13 +56,14 @@ Aktuell liegt mein Fokus auf dem Nostr Protokoll, da ich an der technologischen 
     • Arbeit mit KI-Technologien zur Code-Vervollständigung und -Überprüfung
     • Beschäftigung mit OS Stable Diffusion im grafischen Bereich
     • Interesse an der Entwicklung von Sprachmodellen für die Programmierung
+    - Datenaufarbeitung für LLM Agenten
 
 #### CMS und Open Source Projekte:
     • Verständnis gängiger CMS-Systeme
+    - beste Kenntnisse in Drupal 
 
 #### Aktive Mitarbeit an Open-Source-Projekten:
     • Ocelot: Soziales Netzwerk
-    • Gradido: Alternatives Bezahlsystem
     • Marktplatz mit Kartenfunktion
     • Nostr Client: Dezentrales Relay-System
 
@@ -78,7 +80,7 @@ _Angestellt:_
 
 _Auftragsarbeit:_
 
-    • Projektbezogen oder Stundensatz von ~ 75 € in Bitcoin
+    • Projektbezogen oder Stundensatz von ~ 100€/h in Bitcoin
     • Die Auftragsarbeit beinhaltet die Vorlage eines sauberen Konzepts und Arbeitsplans.
     • Bei Aufträgen ohne vorherige Konzeption (zusätzlicher Bestandteil des Auftrags) erhöhen sich die Preise um 100%.
 ***Bezahlungen für Auftragsarbeit kann nur in Bitcoin erfolgen!***
