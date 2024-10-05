@@ -1,7 +1,3 @@
-Hier ist eine verbesserte README-Datei, die deine GPT-Modelle kurz erklärt und vorstellt:
-
----
-
 # DEVmatrose
 
 ## Über mich
