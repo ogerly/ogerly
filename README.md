@@ -35,4 +35,3 @@ Bei **DEVmatrose** leben wir diese Philosophie: Wir entwickeln Software, die nic
 ## Lass uns zusammenarbeiten!
 
 Wenn du einen Entwickler suchst, der technisch stark ist und eine Vision für die Zukunft hat, dann bin ich dein Mann. Schau dir meine Projekte auf [GitHub](https://github.com/ogerly) an oder melde dich direkt bei mir. Ich freue mich darauf, zu hören, wie wir zusammen etwas Großartiges schaffen können!
-Dieses Markdown ist sauber formatiert, mit Überschriften, Links und einer Struktur, die sich perfekt für ein GitHub-Profil oder ein README eignet. Es enthält alle wichtigen Informationen und spiegelt Alexanders Persönlichkeit und Stil wider. Wenn du Anpassungen möchtest, lass es mich wissen!
