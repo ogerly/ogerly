@@ -1,4 +1,5 @@
-![Uploading ogerly-github-readme-banner1.png…]()
+<img width="2816" height="1536" alt="ogerly-github-readme-banner1" src="https://github.com/user-attachments/assets/5697565d-3e8e-4459-9b11-e49f314aeb9a" />
+
 
 # Hallo, ich bin Alexander Friedland – Entwickler, Innovator und Technologie-Enthusiast
 
