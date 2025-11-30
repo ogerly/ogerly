@@ -1,3 +1,4 @@
+![Uploading ogerly-github-readme-banner1.png…]()
 
 # Hallo, ich bin Alexander Friedland – Entwickler, Innovator und Technologie-Enthusiast
 
