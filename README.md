@@ -9,6 +9,10 @@ Seit 1999 tauche ich in die Welt der Softwareentwicklung ein, und mit über 25 J
 
 Alles begann Ende der 90er, als das Internet noch jung war. Seitdem habe ich mich ständig weiterentwickelt, immer auf der Suche nach neuen Herausforderungen und Technologien, die die Art, wie wir Software nutzen und entwickeln, verändern können. Heute findest du das in meinen [60 GitHub-Repositories](https://github.com/ogerly) wieder – von KI-gestützten Tools über dezentrale Systeme bis hin zu kreativen Datenvisualisierungen. Jedes Projekt ist für mich eine Chance, Neues zu lernen, zu experimentieren und innovative Lösungen zu schaffen.
 
+
+<img width="2816" height="1536" alt="ogerly-github-readme-banner" src="https://github.com/user-attachments/assets/ba89cce8-ebaf-4b3f-b189-5820894d09a2" />
+
+
 ## Meine Fähigkeiten und mein Tech-Stack
 
 Ich bin ein Full-Stack-Entwickler mit einem breiten Spektrum an Skills:
