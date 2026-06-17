@@ -3,7 +3,6 @@
 
 # Hallo, ich bin Alexander Friedland – Entwickler, Innovator und Technologie-Enthusiast
 
-## Webseite Ogerly: [DEVmatrose](https://github.com/DEVmatrose)
  
 Seit 1999 tauche ich in die Welt der Softwareentwicklung ein, und mit über 25 Jahren Erfahrung habe ich mich als Web- und Softwareentwickler etabliert, der immer am Puls der Zeit bleibt. Ich bin der Gründer von **DEVmatrose**, meinem Unternehmen, das sich auf maßgeschneiderte Softwarelösungen spezialisiert hat – mit einem besonderen Fokus auf innovative und dezentrale Technologien. Ich komme aus Dresden, Deutschland, aber meine Arbeit ist grenzenlos, denn ich denke und handle gerne global.
 
@@ -36,7 +35,6 @@ Ich bin nicht nur Entwickler, sondern auch Problemlöser und Innovator. Meine St
 
 Programmieren ist für mich mehr als ein Job – es ist meine Leidenschaft. Es gibt mir die Möglichkeit, kreativ zu sein und die Welt ein Stück besser zu machen. Ich bin neugierig, ständig auf der Suche nach neuen Technologien und Methoden, und ich habe keine Angst, Grenzen auszutesten. Gleichzeitig bin ich pragmatisch und weiß, dass sauberer, wartbarer Code die Basis für nachhaltige Lösungen ist.
 
-Bei **DEVmatrose** leben wir diese Philosophie: Wir entwickeln Software, die nicht nur funktioniert, sondern auch zukunftssicher ist. Ob es um KI-Integration oder dezentrale Anwendungen geht – ich bringe meine Erfahrung und mein Herzblut in jedes Projekt ein.
 
 ## Lass uns zusammenarbeiten!
 
