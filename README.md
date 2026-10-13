@@ -1,124 +1,148 @@
-<img width="2816" height="1536" alt="ogerly-github-readme-banner1" src="https://github.com/user-attachments/assets/5697565d-3e8e-4459-9b11-e49f314aeb9a" />
+<div align="center">
 
-# Hallo, ich bin Alexander Friedland — Entwickler, Innovator und Technologie-Enthusiast
+```
+ ██████╗  ██████╗ ███████╗██████╗ ██╗     ██╗   ██╗
+██╔═══██╗██╔════╝ ██╔════╝██╔══██╗██║     ╚██╗ ██╔╝
+██║   ██║██║  ███╗█████╗  ██████╔╝██║      ╚████╔╝ 
+██║   ██║██║   ██║██╔══╝  ██╔══██╗██║       ╚██╔╝  
+╚██████╔╝╚██████╔╝███████╗██║  ██║███████╗   ██║   
+ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
+```
 
-Softwareentwickler seit 1999 · Dresden
+```
+╔══════════════════════════════════════════════════╗
+║  ALEXANDER FRIEDLAND  ·  CODER SEIT 1999         ║
+║  LOKAL  ·  AUTONOM  ·  SOUVERÄN                  ║
+╚══════════════════════════════════════════════════╝
+```
 
-Digitales Arbeiten — Lokal, Autonom, Souverän.
+<img src="https://avatars.githubusercontent.com/u/1324583?v=4" width="96" alt="Alexander Friedland" />
 
-[Zum Blog](https://ogerly.github.io/alexander-friedland/#blog) · [Videos](https://ogerly.github.io/alexander-friedland/#videos) · [Über mich](https://ogerly.github.io/alexander-friedland/#about) · [Lebenslauf](https://ogerly.github.io/alexander-friedland/#cv)
+[**BLOG**](https://ogerly.github.io/alexander-friedland/#blog) ·
+[**VIDEOS**](https://ogerly.github.io/alexander-friedland/#videos) ·
+[**PROJEKTE**](https://ogerly.github.io/alexander-friedland/projects.html) ·
+[**LEBENSLAUF**](https://ogerly.github.io/alexander-friedland/#cv) ·
+[**YOUTUBE**](https://youtube.com/@DEVmatrose)
 
----
-
-## Blog — Schreibwerk & Logbuch
-
-Technische Überlegungen, Architekturentscheidungen und Beobachtungen aus der Entwicklungsarbeit. Keine Marketingparolen — echte Gedanken.
-
-[Alle 19 Artikel →](https://ogerly.github.io/alexander-friedland/#blog)
-
-**Aktuell:**
-- [Agenten-Architektur jenseits des Kindergartens](https://ogerly.github.io/alexander-friedland/blog/blog-agenten-architektur-jenseits-des-kindergartens.html) — 01.04.2026
-- [Du brauchst kein Framework](https://ogerly.github.io/alexander-friedland/blog/blog-du-brauchst-kein-framework.html) — 26.03.2026
-- [Das Agent-OS](https://ogerly.github.io/alexander-friedland/blog/blog-das-agent-os.html) — 01.03.2026
-
----
-
-## Videos — Videos zum Lernen
-
-Technik erklären. In Videos zeige ich, wie KI, dezentrale Systeme und Coding funktionieren. Mein Fokus: Lokale KI-Modelle für Coding.
-
-[▶ YouTube @DEVmatrose](https://youtube.com/@DEVmatrose)
-
-**Themen:**
-- Lokale KI-Systeme für Unternehmen — Keine Cloud, keine Datenabgabe
-- Qwen3.6 35B A3B → LM Studio → opencode ↔ VS Code → AAMS
-- Praxis für technische Souveränität statt Vendor Lock-in
+</div>
 
 ---
 
-## Über mich — Coder, Bastler, Architekt
+```
+> whoami
+alexander-friedland — softwareentwickler, architekt, bastler
 
-Ich bin Alexander Friedland, Softwareentwickler seit 1999. Was als Basteln mit HTML begann, ist über zwei Jahrzehnte zu echter Systemarchitektur geworden.
+> cat mission.txt
+Ich erkläre Technik: KI, dezentrale Systeme, Coding.
+Meine Stärke: lokale KI-Modelle fürs Programmieren.
+Keine Cloud. Keine Datenabgabe. Kein Vendor-Lock-in.
 
-Mein Fokus liegt heute auf **lokalen KI-Modellen**, **Coding-Tools** und **dezentralen Systemen**. Ich arbeite mit WebGPU-beschleunigten Modellen direkt im Browser, baue lokale Transkriptionspipelines, RAG-Architekturen und Agenten-Systeme — alles ohne Cloud-Zwang.
+> stack --show
+┌───────────────────┐   ┌───────┐   ┌───────────┐   ┌───────────┐
+│ opencode ↔ VSCode │ → │ Proxy │ → │ LM Studio │ → │ Qwen3.8   │
+│                   │   │       │   │           │   │ 27B       │
+└───────────────────┘   └───┬───┘   └───────────┘   └───────────┘
+                            │
+                    ┌───────┴───────┐
+                    │    HERMES     │  Wächter über das
+                    │               │  Kontextfenster
+                    └───────────────┘
 
-Ich erkläre Technik in meinem Blog und auf YouTube. Meine Stärke: Lokale KI-Modelle für Coding. Mein Stack: Qwen3.6 35B A3B → LM Studio → opencode ↔ VS Code → AAMS. Dieser Stack funktioniert überall — für jedes Projekt.
-
-Unter [@ogerly](https://github.com/ogerly) veröffentliche ich seit über 12 Jahren Experimente, Open-Source-Projekte und technische Erkundungen. Jedes Projekt ist ein Stück Entwicklungsgeschichte.
-
-Ich glaube an **technische Souveränität**: Digitale Arbeit sollte lokal, autonom und souverän sein. Keine Abhängigkeit von Cloud-Diensten, keine versteckten Kosten, keine Daten in fremden Händen.
-
-### Kernkompetenzen
-- Lokale KI-Modelle & WebGPU
-- Software-Architektur & Systemdesign
-- Vue.js / TypeScript / Frontend
-- KI-Workflows, RAG, Agenten
-- Dezentrale Protokolle (Nostr, IPFS)
-- Python, Docker, Datenpipelines
-- Coding-Tools & Entwicklungsumgebungen
-
-### Lokale KI für Coding
-- Qwen3.6 35B A3B
-- LM Studio
-- opencode ↔ VS Code
-- AAMS
-- Keine Cloud, keine Abhängigkeit
-
-### Auf Plattformen
-- GitHub @ogerly (seit 12+ Jahren)
-- YouTube @DEVmatrose
-- LinkedIn (Alexander Friedland)
-- Twitter / X
+Struktur & Gedächtnis des Projekts: AAMS
+```
 
 ---
 
-## Lebenslauf — Öffentlicher Lebenslauf
+## 📜 `BLOG // SCHREIBWERK & LOGBUCH`
 
-Mein beruflicher Werdegang — öffentlich und nachvollziehbar.
+```
+┌──────────────────────────────────────────────────┐
+│  LATEST 6 / 19 ARTIKEL                           │
+└──────────────────────────────────────────────────┘
+```
 
-**2024 — Heute** · Lokale KI-Systeme & Agenten-Architektur  
-Alexander Friedland · Open Source  
-Entwicklung lokaler KI-Workflows mit WebGPU-beschleunigten Modellen. AAMS (Agent Manifest Standard), RAG-Architekturen, WhisperX-Pipelines, Agenten-Strukturen mit persistentem Kontext. Fokus auf technische Souveränität und Unabhängigkeit von Cloud-Anbietern.
+| Datum | Artikel | Worum es geht |
+|:--|:--|:--|
+| `06.10.2026` | [**Irregular: Das Labor, das die Tests kontrolliert**](https://ogerly.github.io/alexander-friedland/blog/blog-irregular-labor-kontrolliert-tests.html) | Fast alle KI-Sicherheitsvorfälle haben einen gemeinsamen Nenner: ein Labor betreibt die Testumgebung. |
+| `23.09.2026` | [**Das Märchen von der digitalen Souveränität**](https://ogerly.github.io/alexander-friedland/blog/blog-maerchen-von-der-digitalen-souveraenitaet.html) | Monopol-Cloud, Kontrolle und Cashflow hinter dem Freiheitsversprechen. |
+| `23.09.2026` | [**Hermes — der Wächter über meinen Kontext**](https://ogerly.github.io/alexander-friedland/blog/blog-hermes-waechter-aams.html) | Überwacht die Session lokaler Coding-Agenten und dokumentiert, bevor Wissen verloren geht. |
+| `19.09.2026` | [**Der übersehene Teil des Marktes**](https://ogerly.github.io/alexander-friedland/blog/blog-deruebersehene-teil-des-marktes.html) | Zwei Strategien, die niemand zusammen denkt. |
+| `18.09.2026` | [**Die Börsen gehen. Die EU bleibt.**](https://ogerly.github.io/alexander-friedland/blog/blog-borsen-exodus-eu.html) | MiCA-Übergangsfrist vorbei: nur rund 250 von über 1.200 Anbietern voll autorisiert. |
+| `08.09.2026` | [**Die besten Coder gehen lokal**](https://ogerly.github.io/alexander-friedland/blog/blog-die-besten-coder-gehen-lokal.html) | Wir haben der Cloud das Programmieren beigebracht. Jetzt gehen wir. |
 
-**2024** · Lehre — Dozententätigkeit, SAP Uni Potsdam  
-Alexander Friedland · Gastdozent  
-Ein Jahr lang habe ich an der SAP Uni Potsdam Studenten im ersten Semester Fullstack-Entwicklung unterrichtet. Einmal pro Woche eine Schulung. Im Rahmen eines Kollegen, der dort als Dozent tätig war, habe ich die Vorlesungen unterstützt.
-
-**2020 — 2024** · Dezentrale Systeme & Sovereign Tech  
-Alexander Friedland · Open Source  
-Entwicklung dezentraler Kommunikationsprotokolle und souveräner Infrastruktur. Nostr-Experimente, IPFS-Anwendungen, Zero-Persistence-Messaging. BigBlueButton-Integration mit Video-zu-KI-Protokoll-Pipelines. Matching-Systeme und kollaborative Plattformen.
-
-**2015 — 2020** · Web-Entwicklung & Software-Architektur  
-Alexander Friedland · Freiberuflich  
-Komplexe Web-Anwendungen, Vue.js-Frontends, Datenvisualisierung, API-Design und Systemarchitektur. Prototyping für verschiedene Kunden und Projekte. Schwerpunkt auf Interaktivität, Performance und nachhaltiger Architektur.
-
-**2005 — 2015** · Web-Entwicklung & Systemintegration  
-Alexander Friedland  
-Webseiten, Web-Anwendungen und Systemintegration. Von statischen Seiten bis zu dynamischen Web-Applikationen. Arbeit mit verschiedenen Technologien und Frameworks. Aufbau technischer Infrastruktur für verschiedene Projekte und Organisationen.
-
-**1999 — 2005** · Start als Softwareentwickler  
-Alexander Friedland  
-Einstieg in die Softwareentwicklung mit HTML und Web-Technologien. Selbstbeibringen von Programmierung, ersten Projekten und dem Aufbau technischer Kenntnisse. Leidenschaft für das Handwerk der Code-Entwicklung.
-
-[Fuller Lebenslauf auf der Website →](https://ogerly.github.io/alexander-friedland/#cv)
-
-> **Privater Lebenslauf:** Ein privater Lebenslauf mit detaillierten Angaben (Adresse, vollständige Bildungsgänge, Referenzen etc.) ist auf Anfrage verfügbar. Dieser öffentliche Lebenslauf enthält nur berufsbezogene Informationen.
+<div align="right"><a href="https://ogerly.github.io/alexander-friedland/#blog"><code>&gt; alle artikel lesen ▸</code></a></div>
 
 ---
 
-## Kontakt — Verbinde dich
+## 🚀 `AKTUELL IN ARBEIT`
 
-Du hast eine Frage, ein Projekt oder möchtest einfach reden? Egal ob technische Diskussion, Projektanfrage oder einfach Hallo.
+```
+┌──────────────────────────────────────────────────┐
+│  FRISCH AUS DER WERKSTATT                        │
+└──────────────────────────────────────────────────┘
+```
 
-| Plattform | Link |
-|-----------|------|
-| E-Mail | [devmatrose@proton.me](mailto:devmatrose@proton.me) |
-| GitHub | [@ogerly](https://github.com/ogerly) |
-| YouTube | [@DEVmatrose](https://youtube.com/@DEVmatrose) |
-| LinkedIn | [Alexander Friedland](https://linkedin.com/in/alexander-friedland) |
+| Repo | Stack | Info |
+|:--|:--|:--|
+| [**AAMS**](https://github.com/ogerly/AAMS) ⭐ | `Python` | **Das wichtigste Repo.** Standard für KI-Agenten-Projekte: eine `.agent.json` für Struktur, Memory und Regeln. |
+| [**ki-r-feed**](https://github.com/ogerly/ki-r-feed) · [live](https://ogerly.github.io/ki-r-feed/) | `FastAPI` `SQLite` `Vanilla JS` | Deutscher Video-Feed für KI & Robotik: 50+ Kanäle, Live-Bereich, Shorts, Mini-Player, ohne Tracking. |
+| [**ki-robotik-monitor**](https://github.com/ogerly/ki-robotik-monitor) | `FastAPI` `React` `LM Studio` | Self-hosted Monitor für KI- und Robotik-Quellen: lokale Klassifikation, Kennzahlen als Zeitreihen. |
+| [**SCHWERTKAMPF-Duell-Prototyp**](https://github.com/ogerly/SCHWERTKAMPF-Duell-Prototyp) · [demo](https://schwertkampf-duell-prototyp.onlinedemo44.workers.dev/) | `JavaScript` `Canvas` | Rundenbasiertes Schwertduell im Retro-Stil, als einbettbarer Baustein für ein Horror-Adventure. |
+| [**webgpu-arena**](https://github.com/ogerly/webgpu-arena) | `Vue.js` `WebGPU` | Benchmark-Arena: lokale LLM-Leistung direkt im Browser testen. |
 
 ---
 
-Softwareentwickler seit 1999 · Lokal · Autonom · Souverän
+## 🛠️ `PROJEKTE // AUS DER PROJEKTLISTE`
 
-[GitHub](https://github.com/ogerly) · [YouTube](https://youtube.com/@DEVmatrose) · [Blog](https://ogerly.github.io/alexander-friedland/#blog)
+```
+┌──────────────────────────────────────────────────┐
+│  TOP 6 AUS DER PROJEKTLISTE                      │
+└──────────────────────────────────────────────────┘
+```
+
+| Repo | Sprache | Info |
+|:--|:--:|:--|
+| [**AAMS**](https://github.com/ogerly/AAMS) ⭐ | `Python` | Autonomous Agent Manifest Specification: eine `.agent.json` für Struktur, Memory und Regeln. Werkzeugunabhängig, aktuell v2.4.0. |
+| [**MantisClaw**](https://github.com/ogerly/MantisClaw) | `Python` | Agent-Loop-Framework: Ausführungsrunden für KI-Agenten mit persistentem Kontext. |
+| [**Lokaler-Voice-Agent-**](https://github.com/ogerly/Lokaler-Voice-Agent-) | `Python` | Sprachagent auf Basis von MantisClaw. Spracherkennung und -ausgabe komplett ohne Cloud. |
+| [**ImprintGuard**](https://github.com/ogerly/ImprintGuard) | — | Kontrollierte Wirkung und Imprint-Protection für KI-generierte Inhalte. |
+| [**agent-sapiens**](https://github.com/ogerly/agent-sapiens) | — | KI-Agenten-Projekt, Erfahrungsbericht aus einem Jahr Architekturarbeit. |
+| [**LTX-2**](https://github.com/ogerly/LTX-2) | — | Audio-Video-Modell: Inferenz und LoRA-Trainer-Paket. |
+
+<div align="right"><a href="https://ogerly.github.io/alexander-friedland/projects.html"><code>&gt; alle projekte ansehen ▸</code></a></div>
+
+---
+
+## 🧰 `SKILLS.SYS`
+
+```
+KI & AGENTEN    ████████████████████  lokale LLMs · RAG · AAMS
+FRONTEND        ████████████████████  Vue 3 · Nuxt · TypeScript
+DEZENTRAL       ███████████████░░░░░  Nostr · IPFS · P2P
+BACKEND/DATEN   ███████████████░░░░░  Python · FastAPI · Docker
+AUDIO           ████████████░░░░░░░░  Whisper · WhisperX · PyAnnote
+```
+
+---
+
+## 📡 `KONTAKT`
+
+```
+ [ MAIL ]     devmatrose@proton.me
+ [ GITHUB ]   github.com/ogerly
+ [ YOUTUBE ]  youtube.com/@DEVmatrose
+ [ LINKEDIN ] linkedin.com/in/alexander-friedland
+```
+
+[![Mail](https://img.shields.io/badge/MAIL-devmatrose%40proton.me-black?style=flat-square)](mailto:devmatrose@proton.me)
+[![YouTube](https://img.shields.io/badge/YOUTUBE-%40DEVmatrose-black?style=flat-square)](https://youtube.com/@DEVmatrose)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Alexander%20Friedland-black?style=flat-square)](https://linkedin.com/in/alexander-friedland)
+
+<div align="center">
+
+```
+═══════════════ END OF FILE · SYSTEM READY ═══════════════
+        softwareentwickler seit 1999 · lokal · autonom
+```
+
+</div>
